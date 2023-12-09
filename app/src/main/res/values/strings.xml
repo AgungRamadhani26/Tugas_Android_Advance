@@ -15,8 +15,8 @@
     <string name="isi_desc">Isi deskripsi</string>
     <string name="tambah_data">Tambah Data</string>
     <string name="edit_data">Update Data</string>
-    <string name="form_tambah_data">Detail Data</string>
-    <string name="form_edit_data">Form Edit Data</string>
+    <string name="form_tambah_data">Form Edit Data</string>
+    <string name="form_edit_data">Detail Data</string>
     <string name="err_nama">Field nama harus diisi</string>
     <string name="err_nohp">Field no hp harus diisi</string>
     <string name="err_desc">Field deskripsi harus diisi</string>
