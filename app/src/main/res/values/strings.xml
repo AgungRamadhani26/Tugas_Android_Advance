@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyCrush</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_app">Aplikasi untuk ngelist crush-crush kamu, eitts kalau gamon gpp kok buat ngelist mantan juga, semoga diberi keajaiban, salam cinta…</string>
+    <string name="agungramadhani">Agung Ramadhani</string>
+    <string name="biodata_developer">Hai guys kenalin aku Agung, aku merupakan orang yang bikin aplikasi ini loh, hehehehe sebenernya nih aplikasi gabut aja, karena emang sering gamon dan pengen punya crush aja. Kenalin juga aku berasal dari Medan-Sumatera Utara, umur aku 21 tahun dan sekarang sedang menempuh pendidikan di S1-Informatika Universitas Diponegoro, doain cepet lulus yakkk …, ooiya jangan lupa terhubung dengan aku di LinkedIn</string>
+    <string name="keterangan">Berikut merupakan list crush dan mantan kamu ehehehehe....</string>
+    <string name="empty">Data Kosong</string>
+    <string name="nama">Nama</string>
+    <string name="nohp">080000000000</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="isi_nama">Isi nama</string>
+    <string name="isi_nohp">Isi no handphone</string>
+    <string name="isi_desc">Isi deskripsi</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="edit_data">Update Data</string>
+    <string name="form_tambah_data">Detail Data</string>
+    <string name="form_edit_data">Form Edit Data</string>
+    <string name="err_nama">Field nama harus diisi</string>
+    <string name="err_nohp">Field no hp harus diisi</string>
+    <string name="err_desc">Field deskripsi harus diisi</string>
+    <string name="kangen">Kangen</string>
+</resources>
